@@ -1,8 +1,8 @@
 # CODSOFT
 This repository is made for task submission of a virtual internship at CODSOFT. 
-🚀 **My One Month Journey at CodSoft!** 🚀
 
-Welcome to my exciting one-month internship at CodSoft! 
+
+Welcome to 🚀 **My One Month Journey at CodSoft!** 🚀! 
 👩‍💻 **What's Inside:**
 
 - 💡 Daily Discoveries: Follow along as I uncover new coding insights and techniques.
